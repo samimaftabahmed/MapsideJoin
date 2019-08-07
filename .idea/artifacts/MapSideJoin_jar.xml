@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MapSideJoin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MapSideJoin_jar</output-path>
+    <root id="archive" name="MapSideJoin.jar">
+      <element id="module-output" name="MapSideJoin" />
+    </root>
+  </artifact>
+</component>
